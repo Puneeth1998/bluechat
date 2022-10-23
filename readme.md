@@ -8,6 +8,3 @@
 > use port 3000 for localhost 
 
 ----
-**deployed app link**
-
-http://chatblue.herokuapp.com/
