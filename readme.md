@@ -7,7 +7,7 @@
 
 -----
 **To get it running**
-> run ``` npm install ``` on root folder
+> run ``` npm start ``` on root folder
 > use port 3000 for localhost 
 
 ----
